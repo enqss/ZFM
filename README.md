@@ -32,7 +32,6 @@ Not: Bu araç, sadece eğitim amaçlı kullanılmalıdır. Yetkisiz erişim veya
 
 
 
-![image](https://github.com/user-attachments/assets/ec7d1b18-403f-4466-9025-964cae75b3e9)
 
 
 ![image](https://github.com/user-attachments/assets/72aa0473-c38e-4471-bc70-2d9b19e0acf8)
